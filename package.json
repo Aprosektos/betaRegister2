@@ -2,9 +2,9 @@
   "name": "discord-register-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "beta.js",
+  "main": "apo.js",
   "scripts": {
-    "test": "node beta.js"
+    "test": "node apo.js"
   },
   "keywords": [],
   "author": "Beta",
